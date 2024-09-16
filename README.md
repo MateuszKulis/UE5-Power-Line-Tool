@@ -1,4 +1,7 @@
 # UE5 Power Line Tool
+
+This repository contains a custom tool for Unreal Engine 5 designed to efficiently create and manage power lines within your game environment. The tool is ideal for developers who want to quickly set up realistic power line networks in open-world or urban settings, with flexibility and ease of use in mind.
+
 ![Gameplay Screenshot](screenshots/tool5.png)
 ![Gameplay Screenshot](screenshots/tool6.png)
 ![Gameplay Screenshot](screenshots/tool1.png)
@@ -8,8 +11,6 @@
 
 
 [![Gameplay](https://img.youtube.com/vi/TwC1k2bAPuM/maxresdefault.jpg)](https://youtu.be/oBd-w9QuiS8) 
-
-This repository contains a custom tool for Unreal Engine 5 designed to efficiently create and manage power lines within your game environment. The tool is ideal for developers who want to quickly set up realistic power line networks in open-world or urban settings, with flexibility and ease of use in mind.
 
 ## Features
 
